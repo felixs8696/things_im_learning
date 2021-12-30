@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T03:11:30.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5TzGzeDfIJlFAJkOdkga" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:14:22.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ItQOQfFyIgpPYIpriNoE" version="16.0.0" type="github">
   <diagram id="u0MMfJnpxb5PyBzBqrjG" name="Page-1">
-    <mxGraphModel dx="2330" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3751" dy="2893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1858,6 +1858,9 @@
         </mxCell>
         <mxCell id="disab7010C4KCnBqT44w-450" value="&lt;b&gt;Mining In Progress&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="351.65999999999997" y="2095" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="disab7010C4KCnBqT44w-451" value="High Level Wrap up:&amp;nbsp;https://youtu.be/bBC-nXj3Ng4?t=1048" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="3640" width="330" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
